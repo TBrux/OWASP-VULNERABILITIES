@@ -1,6 +1,6 @@
 # OWASP-VULNERABILITIES
 
-# OWASP Notes
+# Apuntes OWASP
 
 Este repositorio contiene apuntes y guías relacionadas con las principales vulnerabilidades documentadas por OWASP (Open Web Application Security Project). Cada documento incluye explicaciones claras, ejemplos prácticos y estrategias de mitigación para ayudar a entender y prevenir amenazas de seguridad comunes en aplicaciones web.
 
