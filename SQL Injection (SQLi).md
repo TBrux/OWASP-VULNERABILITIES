@@ -193,4 +193,3 @@ Esto asegura que las entradas sean tratadas como datos y no como código.
 
 ---
 
-¡Recuerda siempre seguir buenas prácticas de seguridad en el desarrollo de tus aplicaciones!
